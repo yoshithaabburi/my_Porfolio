@@ -1,2 +1,3 @@
 # my_Porfolio
-Welcome to my digital world—a space where code meets creativity, design meets purpose, and every project is an opportunity to build something extraordinary. I explore, create, and innovate with curiosity at the center of everything I do.
+
+Welcome to my portfolio! I'm Yoshitha Abburi, a developer dedicated to building responsive, user-friendly, and visually appealing digital experiences. I continuously learn new technologies and transform ideas into functional applications that make a difference.
